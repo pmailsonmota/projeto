@@ -1,3 +1,3 @@
 <?php
-	echo "Teste novo!"
+	echo "Teste modificado!"
 ?>
